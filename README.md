@@ -1,6 +1,6 @@
 # Kanban
 
-<a href='https://ardent24.github.io/kanban.io/dist/index.html/'>Kanban</a>
+<a href='https://ardent24.github.io/kanban.io/dist/index.html'>Страница канбан доски</a>
 
 - изменения сохраняются в localsStorage
 
